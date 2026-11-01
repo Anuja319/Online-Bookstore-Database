@@ -34,7 +34,7 @@ The database contains seven tables:
 
 The ER diagram represents all seven tables and their relationships.
 
-![Online Bookstore ER Diagram](online_bookstore_er.png)
+![Online Bookstore ER Diagram](./online_bookstore_er.png)
 
 ## 5. Database Relationships
 
